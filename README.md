@@ -79,7 +79,7 @@ The final dashboard provides:
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](sales_performance_dashboard)
+![Dashboard Screenshot](sales_performance_dashboard.png)
 
 ---
 
